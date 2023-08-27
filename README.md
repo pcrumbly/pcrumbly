@@ -1,7 +1,7 @@
 # PC's GitHub Repository
 
 ## About Me
-Computer Engineering Student
+Computer Engineering Student  
 https://pcrumbly.github.io/
 
 ## Contact
