@@ -1,16 +1,22 @@
-### Hi there 👋
+# PC's GitHub Repository
 
-<!--
-**pcrumbly/pcrumbly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Computer Engineering Student
 
-Here are some ideas to get you started:
+## Contact
+Email: preston.cherryhead@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+
+## Thoughts
+>"But this long history of learning how
+> not to fool ourselves--of having utter scientific
+> integrity--is, I'm sorry to say, something that we
+> haven't specifically included in any particular course
+> that I know of. We just hope you've caught on by osmosis.
+
+> The first principle is that you must not fool yourself--and you are the easiest person to fool.
+> So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists.
+> You just have to be honest in a conventional way after that.
