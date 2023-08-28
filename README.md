@@ -5,7 +5,7 @@ Computer Engineering Student
 https://pcrumbly.github.io/
 
 ## Contact
-Email: preston.cherryhead@gmail.com
+Email: preston.🍒🤯@gmail.com
 
 ## Projects
 
