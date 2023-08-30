@@ -3,6 +3,7 @@
 ## About Me
 Computer Engineering Student  
 https://pcrumbly.github.io/
+https://exercism.org/profiles/pcrumbly
 
 ## Contact
 Email: preston.🍒🤯@gmail.com
