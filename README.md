@@ -12,11 +12,15 @@ Python/DataSci |
 Inter Milan |
 
 ## Contact
-Email: preston.🍒🤯@gmail.com
+Email_1: preston.🍒🤯@gmail.com <br />
+Email_2: email = self.firstname + self.lastname + "@gmail.com"
+
 
 ## Projects
-
-
+A soccer news blog <br />
+Something I call CherryStem <br />
+NBA Wumbo Jumbo <br />
+graduating 
 
 ## Thoughts
 >"But this long history of learning how
