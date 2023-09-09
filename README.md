@@ -7,9 +7,9 @@ https://pcrumbly.github.io/ <br />
 https://exercism.org/profiles/pcrumbly
 
 ## Interests
-Additive Manufacturing
-Python/DataSci
-Inter Milan
+Additive Manufacturing |
+Python/DataSci |
+Inter Milan |
 
 ## Contact
 Email: preston.🍒🤯@gmail.com
