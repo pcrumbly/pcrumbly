@@ -9,7 +9,18 @@ https://exercism.org/profiles/pcrumbly
 ## Interests
 Additive Manufacturing |
 Python/DataSci |
-Inter Milan |
+Inter Milan 
+
+## Things I want know a little about
+WordPress (CMS/API), PHP (using Composer, PHPUnit), frameworks
+Server Administration for web and web app (VPS/Baremetal/Shared), Cloud products (PythonAnywhere, Firebase, IBM Cloud*)
+React Redux, Axios, UI frameworks, Jest, Styled-components
+Webpack
+C++ (more than just university level)
+Python, DataSci (TensorFlow, Scikit-learn, Matplotlib,Seaborn), ML
+Additive Manufacturing & 3D modeling for engineering
+Godot
+
 
 ## Contact
 Email_1: preston.🍒🤯@gmail.com <br />
