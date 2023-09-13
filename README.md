@@ -12,14 +12,13 @@ Python/DataSci |
 Inter Milan 
 
 ## Things I want know a little about
-WordPress (CMS/API), PHP (using Composer, PHPUnit), frameworks
-Server Administration for web and web app (VPS/Baremetal/Shared), Cloud products (PythonAnywhere, Firebase, IBM Cloud*)
-React Redux, Axios, UI frameworks, Jest, Styled-components
-Webpack
-C++ (more than just university level)
-Python, DataSci (TensorFlow, Scikit-learn, Matplotlib,Seaborn), ML
-Additive Manufacturing & 3D modeling for engineering
-Godot
+WordPress (CMS/API), PHP (using Composer, PHPUnit), frameworks <br />
+Server Administration for web and web app (VPS/Baremetal/Shared), Cloud products (PythonAnywhere, Firebase, IBM Cloud*) <br />
+React, Redux, Webpack, Axios, UI frameworks, Jest, Styled-components <br />
+C++ (more than just university level) <br />
+Python, DataSci (TensorFlow, Scikit-learn, Matplotlib,Seaborn), ML <br />
+Additive Manufacturing & 3D modeling for engineering <br />
+Godot <br />
 
 
 ## Contact
