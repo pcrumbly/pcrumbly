@@ -18,7 +18,7 @@ React, Redux, Webpack, Axios, UI frameworks, Jest, Styled-components <br />
 C++ (more than just university level) <br />
 Python, Dash, DataSci (TensorFlow, Scikit-learn, Matplotlib, Seaborn), ML <br />
 Additive Manufacturing & 3D modeling for engineering <br />
-Godot <br />
+Godot, game design <br />
 
 
 ## Contact
