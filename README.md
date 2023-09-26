@@ -29,7 +29,7 @@ Email_2: email = self.firstname + self.lastname + "@gmail.com"
 ## Projects
 A soccer news blog - React <br />
 Something I call CherryStem - Flask <br />
-NBA Wumbo Jumbo Flask <br />
+NBA Wumbo Jumbo - Flask <br />
 graduating 
 
 ## Thoughts
