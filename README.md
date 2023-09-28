@@ -14,6 +14,7 @@ Inter Milan
 ## Things I want know a little about
 WordPress (CMS/API), PHP (using Composer, PHPUnit), frameworks <br />
 Server Administration for web and web app (VPS/Baremetal/Shared), Cloud products (PythonAnywhere, Firebase, IBM Cloud*) <br />
+Network design, circuit analysis and design, Microcontroller protramming <br />
 React, Redux, Webpack, Axios, UI frameworks, Jest, Styled-components <br />
 C++ (more than just university level) <br />
 Python, Dash, DataSci (TensorFlow, Scikit-learn, Matplotlib, Seaborn), ML <br />
