@@ -9,7 +9,8 @@ https://exercism.org/profiles/pcrumbly
 ## Interests
 Additive Manufacturing |
 Python/DataSci |
-Inter Milan 
+Inter Milan |
+WordPress
 
 ## Things I want know a little about
 WordPress (CMS/API), PHP (using Composer, PHPUnit), frameworks <br />
